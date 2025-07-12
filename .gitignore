@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+package.json
+
+# Environment files
+.env
+.env.*  
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode specific
+.vscode/
+
+# Optional: If you're using build tools like Babel or TypeScript, add these
+dist/
+build/
+*.tsbuildinfo
+
+# Optional: If you're using Docker
+.docker/
+
+# Optional: Coverage reports
+coverage/
+
+
+singh-studio-f3414-firebase-adminsdk-fbsvc-76d5bfc0da.json
